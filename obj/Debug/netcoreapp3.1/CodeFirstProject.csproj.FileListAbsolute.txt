@@ -1,0 +1,655 @@
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\Chris\Documents\dotnet\Week 5\Project\VSWorkSpace\CodeFirstProject\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\IainCo\Desktop\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\IainCo\Desktop\INS_GroupProject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+C:\Users\natha\Documents\FDM Training\Final Group Project\attackontayo_ins_groupproject\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\Backups\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
+F:\SultopianSoftware\Older Files\attackontayo_ins_groupproject-master\attackontayo_ins_groupproject-master\gymmembershipcodefirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.exe
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.deps.json
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.json
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.runtimeconfig.dev.json
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SultopianSoftware\BP\CodeFirst\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.AssemblyReference.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfoInputs.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.AssemblyInfo.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CoreCompileInputs.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.MvcApplicationPartsAssemblyInfo.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorAssemblyInfo.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\staticwebassets\CodeFirstProject.StaticWebAssets.Manifest.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.input.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.TagHelpers.output.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorCoreGenerate.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cache
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.RazorTargetAssemblyInfo.cs
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.Views.pdb
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.csproj.CopyComplete
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.dll
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.pdb
+F:\SultopianSoftware\BP\CodeFirst\obj\Debug\netcoreapp3.1\CodeFirstProject.genruntimeconfig.cache
